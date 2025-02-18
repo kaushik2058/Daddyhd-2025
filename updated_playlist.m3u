@@ -127,16 +127,7 @@ https://daddy.nayeem-parvez.workers.dev/707.m3u8
 https://daddy.nayeem-parvez.workers.dev/708.m3u8
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/tru-tv-us.png" group-title="All Channels",TruTV
 https://daddy.nayeem-parvez.workers.dev/341.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="All Channels",TSN1
-https://daddy.nayeem-parvez.workers.dev/111.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="All Channels",TSN2
-https://daddy.nayeem-parvez.workers.dev/112.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="All Channels",TSN3
-https://daddy.nayeem-parvez.workers.dev/113.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="All Channels",TSN4
-https://daddy.nayeem-parvez.workers.dev/114.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="All Channels",TSN5
-https://daddy.nayeem-parvez.workers.dev/115.m3u8
+
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="All Channels",TUDN
 https://daddy.nayeem-parvez.workers.dev/66.m3u8
 #EXTINF:-1 tvg-id="Astro.SuperSport.1.my" tvg-name="Astro SuperSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png" group-title="All Channels",Astro SuperSport 1
@@ -185,8 +176,7 @@ https://daddy.nayeem-parvez.workers.dev/488.m3u8
 https://daddy.nayeem-parvez.workers.dev/489.m3u8
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="All Channels",Canal+ Sport 5 Afrique
 https://daddy.nayeem-parvez.workers.dev/490.m3u8
-#EXTINF:-1 tvg-id="ESPN.Premium.(Chile).(FOXSP1).cl" tvg-name="ESPN Premium Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png" group-title="All Channels",ESPN Premium Argentina
-https://daddy.nayeem-parvez.workers.dev/387.m3u8
+
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Sur).(FOXSP2HD).cl" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="All Channels",Fox Sports 2 Argentina
 https://daddy.nayeem-parvez.workers.dev/788.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).cl" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" group-title="All Channels",Fox Sports 3 Argentina
@@ -203,14 +193,7 @@ https://daddy.nayeem-parvez.workers.dev/492.m3u8
 https://daddy.nayeem-parvez.workers.dev/493.m3u8
 #EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="Combate Brasil" tvg-logo="https://i.imgur.com/yqzhFnK.png" group-title="All Channels",Combate Brasil
 https://daddy.nayeem-parvez.workers.dev/89.m3u8
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="All Channels",ESPN Brasil
-https://daddy.nayeem-parvez.workers.dev/81.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN2 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="All Channels",ESPN2 Brasil
-https://daddy.nayeem-parvez.workers.dev/82.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN3 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-3-ar.png" group-title="All Channels",ESPN3 Brasil
-https://daddy.nayeem-parvez.workers.dev/83.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN4 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-4-br.png" group-title="All Channels",ESPN4 Brasil
-https://daddy.nayeem-parvez.workers.dev/85.m3u8
+
 #EXTINF:-1 tvg-id="290112" tvg-name="Premier Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="All Channels",Premier Brasil
 https://daddy.nayeem-parvez.workers.dev/88.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="All Channels",SporTV Brasil
@@ -257,10 +240,7 @@ https://daddy.nayeem-parvez.workers.dev/473.m3u8
 https://daddy.nayeem-parvez.workers.dev/474.m3u8
 #EXTINF:-1 tvg-id="MAXSport4(src01).bg" tvg-name="Max Sport 4 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-4-bg.png" group-title="All Channels",Max Sport 4 Bulgaria
 https://daddy.nayeem-parvez.workers.dev/475.m3u8
-#EXTINF:-1 tvg-id="NOVAsport(src01).bg" tvg-name="Nova Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png" group-title="All Channels",Nova Sport Bulgaria
-https://daddy.nayeem-parvez.workers.dev/468.m3u8
-#EXTINF:-1 tvg-id="NOVA(src01).bg" tvg-name="Nova TV Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-bg.png" group-title="All Channels",Nova TV Bulgaria
-https://daddy.nayeem-parvez.workers.dev/480.m3u8
+
 #EXTINF:-1 tvg-id="RING(src01).bg" tvg-name="Ring Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-title="All Channels",Ring Bulgaria
 https://daddy.nayeem-parvez.workers.dev/471.m3u8
 #EXTINF:-1 tvg-id="Noovo(CFJP)MontrealQC(src01).ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/DK8UT1f.png" group-title="All Channels",Noovo CA
@@ -377,26 +357,7 @@ https://daddy.nayeem-parvez.workers.dev/628.m3u8
 https://daddy.nayeem-parvez.workers.dev/629.m3u8
 #EXTINF:-1 tvg-id="COSMOTE.SPORT.9HD.gr" tvg-name="Cosmote Sport 9 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="All Channels",Cosmote Sport 9 Greece
 https://daddy.nayeem-parvez.workers.dev/630.m3u8
-#EXTINF:-1 tvg-id="Novasports1.gr" tvg-name="Nova Sports 1 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-1-gr.png" group-title="All Channels",Nova Sports 1 Greece
-https://daddy.nayeem-parvez.workers.dev/631.m3u8
-#EXTINF:-1 tvg-id="Nova.Sport.2.gr" tvg-name="Nova Sports 2 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-2-gr.png" group-title="All Channels",Nova Sports 2 Greece
-https://daddy.nayeem-parvez.workers.dev/632.m3u8
-#EXTINF:-1 tvg-id="Nova.Sport.3.gr" tvg-name="Nova Sports 3 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-3-gr.png" group-title="All Channels",Nova Sports 3 Greece
-https://daddy.nayeem-parvez.workers.dev/633.m3u8
-#EXTINF:-1 tvg-id="Nova.Sport.4.gr" tvg-name="Nova Sports 4 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-4-gr.png" group-title="All Channels",Nova Sports 4 Greece
-https://daddy.nayeem-parvez.workers.dev/634.m3u8
-#EXTINF:-1 tvg-id="Nova.Sport.5.gr" tvg-name="Nova Sports 5 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-5-gr.png" group-title="All Channels",Nova Sports 5 Greece
-https://daddy.nayeem-parvez.workers.dev/635.m3u8
-#EXTINF:-1 tvg-id="Nova.Sport.6.gr" tvg-name="Nova Sports 6 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-6-gr.png" group-title="All Channels",Nova Sports 6 Greece
-https://daddy.nayeem-parvez.workers.dev/636.m3u8
-#EXTINF:-1 tvg-id="Nova.Sports.Premier.League.gr" tvg-name="Nova Sports Premier League Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="All Channels",Nova Sports Premier League Greece
-https://daddy.nayeem-parvez.workers.dev/599.m3u8
-#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-name="Nova Sports Start Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png" group-title="All Channels",Nova Sports Start Greece
-https://daddy.nayeem-parvez.workers.dev/637.m3u8
-#EXTINF:-1 tvg-id="Nova.Sports.Prime.gr" tvg-name="Nova Sports Prime Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="All Channels",Nova Sports Prime Greece
-https://daddy.nayeem-parvez.workers.dev/638.m3u8
-#EXTINF:-1 tvg-id="Nova.Sports.News.gr" tvg-name="Nova Sports News Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-news-gr.png" group-title="All Channels",Nova Sports News Greece
-https://daddy.nayeem-parvez.workers.dev/639.m3u8
+
 #EXTINF:-1 tvg-id="ספורט.1.il" tvg-name="Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport1-il.png" group-title="All Channels",Sport 1 Israel
 https://daddy.nayeem-parvez.workers.dev/140.m3u8
 #EXTINF:-1 tvg-id="ספורט.2.il" tvg-name="Sport 2 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport2-il.png" group-title="All Channels",Sport 2 Israel
@@ -532,31 +493,8 @@ https://daddy.nayeem-parvez.workers.dev/440.m3u8
 https://daddy.nayeem-parvez.workers.dev/441.m3u8
 #EXTINF:-1 tvg-id="Prima.Sport.4.ro" tvg-name="Orange Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/orange-sport-4-ro.png" group-title="All Channels",Orange Sport 4 Romania
 https://daddy.nayeem-parvez.workers.dev/442.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 1 Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-futbol-1-ru.png" group-title="All Channels",Match Football 1 Russia
-https://daddy.nayeem-parvez.workers.dev/136.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 2 Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-futbol-2-ru.png" group-title="All Channels",Match Football 2 Russia
-https://daddy.nayeem-parvez.workers.dev/137.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 3 Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-futbol-3-ru.png" group-title="All Channels",Match Football 3 Russia
-https://daddy.nayeem-parvez.workers.dev/138.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Premier Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-premier-ru.png" group-title="All Channels",Match Premier Russia
-https://daddy.nayeem-parvez.workers.dev/573.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match TV Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-ru.png" group-title="All Channels",Match TV Russia
-https://daddy.nayeem-parvez.workers.dev/127.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАТЧ! БОЕЦ Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-boets-ru.png" group-title="All Channels",МАТЧ! БОЕЦ Russia
-https://daddy.nayeem-parvez.workers.dev/395.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Sport Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/nova-tv-rs.png" group-title="All Channels",Nova Sport Serbia
-https://daddy.nayeem-parvez.workers.dev/582.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-1-hr.png" group-title="All Channels",Sport Klub 1 Serbia
-https://daddy.nayeem-parvez.workers.dev/101.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-2-hr.png" group-title="All Channels",Sport Klub 2 Serbia
-https://daddy.nayeem-parvez.workers.dev/102.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-3-hr.png" group-title="All Channels",Sport Klub 3 Serbia
-https://daddy.nayeem-parvez.workers.dev/103.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-4-hr.png" group-title="All Channels",Sport Klub 4 Serbia
-https://daddy.nayeem-parvez.workers.dev/104.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hd/sportklub-hd-hr.png" group-title="All Channels",Sport Klub HD Serbia
-https://daddy.nayeem-parvez.workers.dev/453.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal11-pt.png" group-title="All Channels",Canal 11
 https://daddy.nayeem-parvez.workers.dev/540.m3u8
@@ -738,16 +676,7 @@ https://daddy.nayeem-parvez.workers.dev/314.m3u8
 https://daddy.nayeem-parvez.workers.dev/315.m3u8
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="All Channels",E4 Channel
 https://daddy.nayeem-parvez.workers.dev/363.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="All Channels",ESPN
-https://daddy.nayeem-parvez.workers.dev/44.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="All Channels",ESPN 2
-https://daddy.nayeem-parvez.workers.dev/45.m3u8
-#EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="All Channels",ESPN Deportes
-https://daddy.nayeem-parvez.workers.dev/375.m3u8
-#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="All Channels",ESPNews
-https://daddy.nayeem-parvez.workers.dev/288.m3u8
-#EXTINF:-1 tvg-id="ESPNU.On.Demand.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="All Channels",ESPNU
-https://daddy.nayeem-parvez.workers.dev/316.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="All Channels",EuroSport 1
 https://daddy.nayeem-parvez.workers.dev/41.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="All Channels",EuroSport 2
@@ -1114,10 +1043,7 @@ https://daddy.nayeem-parvez.workers.dev/877.m3u8
 https://daddy.nayeem-parvez.workers.dev/880.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20 Mediaset Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/20-it.png" group-title="All Channels",20 Mediaset Italy
 https://daddy.nayeem-parvez.workers.dev/857.m3u8
-#EXTINF:-1 tvg-id="ESPN(src01).nl" tvg-name="ESPN 1 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-nl.png" group-title="All Channels",ESPN 1 Netherland
-https://daddy.nayeem-parvez.workers.dev/379.m3u8
-#EXTINF:-1 tvg-id="ESPN2(src01).nl" tvg-name="ESPN 2 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-2-nl.png" group-title="All Channels",ESPN 2 Netherland
-https://daddy.nayeem-parvez.workers.dev/386.m3u8
+
 #EXTINF:-1 tvg-id="RTL7(src01).nl" tvg-name="RTL7 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/rtl7-nl.png" group-title="All Channels",RTL7 Netherland
 https://daddy.nayeem-parvez.workers.dev/390.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Veronica Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/veronica-nl.png" group-title="All Channels",Veronica Netherland
@@ -1144,10 +1070,7 @@ https://daddy.nayeem-parvez.workers.dev/786.m3u8
 https://daddy.nayeem-parvez.workers.dev/827.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV kykNET & kie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="All Channels",DSTV kykNET & kie
 https://daddy.nayeem-parvez.workers.dev/828.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SUR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="All Channels",ESPN SUR
-https://daddy.nayeem-parvez.workers.dev/149.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 SUR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="All Channels",ESPN2 SUR
-https://daddy.nayeem-parvez.workers.dev/150.m3u8
+
 #EXTINF:-1 tvg-id="Fight.Network.Canada.ca" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/fight-network-ca.png" group-title="All Channels",Fight Network
 https://daddy.nayeem-parvez.workers.dev/757.m3u8
 #EXTINF:-1 tvg-id="Fashion.TV.fr" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="All Channels",Fashion TV
