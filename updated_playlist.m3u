@@ -75,49 +75,10 @@ https://daddy.nayeem-parvez.workers.dev/388.m3u8
 #EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="Combate Brasil" tvg-logo="https://i.imgur.com/yqzhFnK.png" group-title="All Channels",Combate Brasil
 https://daddy.nayeem-parvez.workers.dev/89.m3u8
 
-#EXTINF:-1 tvg-id="290112" tvg-name="Premier Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="All Channels",Premier Brasil
-https://daddy.nayeem-parvez.workers.dev/88.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="All Channels",SporTV Brasil
-https://daddy.nayeem-parvez.workers.dev/78.m3u8
-#EXTINF:-1 tvg-id="Sportv.2.br" tvg-name="SporTV2 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png" group-title="All Channels",SporTV2 Brasil
-https://daddy.nayeem-parvez.workers.dev/79.m3u8
-#EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV3 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png" group-title="All Channels",SporTV3 Brasil
-https://daddy.nayeem-parvez.workers.dev/80.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="All Channels",TNT Brasil
-https://daddy.nayeem-parvez.workers.dev/87.m3u8
-#EXTINF:-1 tvg-id="BNT1(src01).bg" tvg-name="BNT 1 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png" group-title="All Channels",BNT 1 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/476.m3u8
-#EXTINF:-1 tvg-id="BNT2(src01).bg" tvg-name="BNT 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png" group-title="All Channels",BNT 2 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/477.m3u8
-#EXTINF:-1 tvg-id="БНТ3(src01).bg" tvg-name="BNT 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png" group-title="All Channels",BNT 3 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/478.m3u8
-#EXTINF:-1 tvg-id="bTV(src01).bg" tvg-name="bTV Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png" group-title="All Channels",bTV Bulgaria
-https://daddy.nayeem-parvez.workers.dev/479.m3u8
-#EXTINF:-1 tvg-id="bTVAction(src01).bg" tvg-name="bTV Action Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-action-bg.png" group-title="All Channels",bTV Action Bulgaria
-https://daddy.nayeem-parvez.workers.dev/481.m3u8
-#EXTINF:-1 tvg-id="BTVStory(src01).bg" tvg-name="bTV Lady Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-lady-bg.png" group-title="All Channels",bTV Lady Bulgaria
-https://daddy.nayeem-parvez.workers.dev/484.m3u8
-#EXTINF:-1 tvg-id="DiemaSport(src01).bg" tvg-name="Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport-hd-bg.png" group-title="All Channels",Diema Sport Bulgaria
-https://daddy.nayeem-parvez.workers.dev/465.m3u8
-#EXTINF:-1 tvg-id="DiemaSport2(src01).bg" tvg-name="Diema Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport2-hd-bg.png" group-title="All Channels",Diema Sport 2 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/466.m3u8
-#EXTINF:-1 tvg-id="DiemaSport3(src01).bg" tvg-name="Diema Sport 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport3-hd-bg.png" group-title="All Channels",Diema Sport 3 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/467.m3u8
-#EXTINF:-1 tvg-id="Diema(src01).bg" tvg-name="Diema Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-bg.png" group-title="All Channels",Diema Bulgaria
-https://daddy.nayeem-parvez.workers.dev/482.m3u8
-#EXTINF:-1 tvg-id="DiemaFamily(src01).bg" tvg-name="Diema Family Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-family-bg.png" group-title="All Channels",Diema Family Bulgaria
-https://daddy.nayeem-parvez.workers.dev/485.m3u8
+
 
 #EXTINF:-1 tvg-id="STAR(src01).bg" tvg-name="Star Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/star-channel-bg.png" group-title="All Channels",Star Bulgaria
 https://daddy.nayeem-parvez.workers.dev/483.m3u8
-#EXTINF:-1 tvg-id="MAXSport1(src01).bg" tvg-name="Max Sport 1 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-1-bg.png" group-title="All Channels",Max Sport 1 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/472.m3u8
-#EXTINF:-1 tvg-id="MAXSport2(src01).bg" tvg-name="Max Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-2-bg.png" group-title="All Channels",Max Sport 2 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/473.m3u8
-#EXTINF:-1 tvg-id="MAXSport3(src01).bg" tvg-name="Max Sport 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-3-bg.png" group-title="All Channels",Max Sport 3 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/474.m3u8
-#EXTINF:-1 tvg-id="MAXSport4(src01).bg" tvg-name="Max Sport 4 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-4-bg.png" group-title="All Channels",Max Sport 4 Bulgaria
-https://daddy.nayeem-parvez.workers.dev/475.m3u8
 
 #EXTINF:-1 tvg-id="RING(src01).bg" tvg-name="Ring Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-title="All Channels",Ring Bulgaria
 https://daddy.nayeem-parvez.workers.dev/471.m3u8
@@ -126,10 +87,7 @@ https://daddy.nayeem-parvez.workers.dev/835.m3u8
 #EXTINF:-1 tvg-id="RDS2(src01).ca" tvg-name="RDS 2 CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-2-ca.png" group-title="All Channels",RDS 2 CA
 https://daddy.nayeem-parvez.workers.dev/840.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/maxsport1-hr.png" group-title="All Channels",Max Sport 1 Croatia
-https://daddy.nayeem-parvez.workers.dev/779.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 2 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/maxsport2-hr.png" group-title="All Channels",Max Sport 2 Croatia
-https://daddy.nayeem-parvez.workers.dev/780.m3u8
+
 
 
 
@@ -156,46 +114,13 @@ https://daddy.nayeem-parvez.workers.dev/645.m3u8
 https://daddy.nayeem-parvez.workers.dev/725.m3u8
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/br-fernsehen-hd-de.png" group-title="All Channels",BR Fernsehen
 https://daddy.nayeem-parvez.workers.dev/737.m3u8
-#EXTINF:-1 tvg-id="DAZN1(src01).de" tvg-name="DAZN 1 Bar DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="All Channels",DAZN 1 Bar DE
-https://daddy.nayeem-parvez.workers.dev/426.m3u8
-#EXTINF:-1 tvg-id="DAZN2(src01).de" tvg-name="DAZN 2 Bar DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn2-de.png" group-title="All Channels",DAZN 2 Bar DE
-https://daddy.nayeem-parvez.workers.dev/427.m3u8
+
 #EXTINF:-1 tvg-id="hrfernsehen(src01).de" tvg-name="HR Fernsehen DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/hr-hd-de.png" group-title="All Channels",HR Fernsehen DE
 https://daddy.nayeem-parvez.workers.dev/740.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Voetbal Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="All Channels",Ziggo Sport Voetbal Netherland
 https://daddy.nayeem-parvez.workers.dev/398.m3u8
 
 
-#EXTINF:-1 tvg-id="ספורט.1.il" tvg-name="Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport1-il.png" group-title="All Channels",Sport 1 Israel
-https://daddy.nayeem-parvez.workers.dev/140.m3u8
-#EXTINF:-1 tvg-id="ספורט.2.il" tvg-name="Sport 2 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport2-il.png" group-title="All Channels",Sport 2 Israel
-https://daddy.nayeem-parvez.workers.dev/141.m3u8
-#EXTINF:-1 tvg-id="ספורט.3.il" tvg-name="Sport 3 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport3-il.png" group-title="All Channels",Sport 3 Israel
-https://daddy.nayeem-parvez.workers.dev/142.m3u8
-#EXTINF:-1 tvg-id="ספורט.4.il" tvg-name="Sport 4 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport4-il.png" group-title="All Channels",Sport 4 Israel
-https://daddy.nayeem-parvez.workers.dev/143.m3u8
-#EXTINF:-1 tvg-id="ספורט.5.שידור.חי.il" tvg-name="Sport 5 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5sport-il.png" group-title="All Channels",Sport 5 Israel
-https://daddy.nayeem-parvez.workers.dev/144.m3u8
-#EXTINF:-1 tvg-id="ספורט.5.פלוס.il" tvg-name="Sport 5 PLUS Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5plus-il.png" group-title="All Channels",Sport 5 PLUS Israel
-https://daddy.nayeem-parvez.workers.dev/145.m3u8
-#EXTINF:-1 tvg-id="ספורט.5.לייב.il" tvg-name="Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5live-il.png" group-title="All Channels",Sport 5 Live Israel
-https://daddy.nayeem-parvez.workers.dev/146.m3u8
-#EXTINF:-1 tvg-id="5STARS.[Sport.5.Stars.HD.(59)].il" tvg-name="Sport 5 Star Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5stars-il.png" group-title="All Channels",Sport 5 Star Israel
-https://daddy.nayeem-parvez.workers.dev/147.m3u8
-#EXTINF:-1 tvg-id="5GOLD.[Sport.5.Gold.(57)].il" tvg-name="Sport 5 Gold Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5gold-il.png" group-title="All Channels",Sport 5 Gold Israel
-https://daddy.nayeem-parvez.workers.dev/148.m3u8
-#EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="All Channels",Rai 1 Italy
-https://daddy.nayeem-parvez.workers.dev/850.m3u8
-#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-name="Rai 2 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="All Channels",Rai 2 Italy
-https://daddy.nayeem-parvez.workers.dev/851.m3u8
-#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="All Channels",Rai 3 Italy
-https://daddy.nayeem-parvez.workers.dev/852.m3u8
-#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="All Channels",Rai 3 Italy
-https://daddy.nayeem-parvez.workers.dev/853.m3u8
-#EXTINF:-1 tvg-id="RaiSport(src01).it" tvg-name="Rai Sport Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="All Channels",Rai Sport Italy
-https://daddy.nayeem-parvez.workers.dev/882.m3u8
-#EXTINF:-1 tvg-id="RaiPremium(src01).it" tvg-name="Rai Premium Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="All Channels",Rai Premium Italy
-https://daddy.nayeem-parvez.workers.dev/858.m3u8
 
 
 
@@ -205,20 +130,7 @@ https://daddy.nayeem-parvez.workers.dev/373.m3u8
 https://daddy.nayeem-parvez.workers.dev/336.m3u8
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="All Channels",TCM
 https://daddy.nayeem-parvez.workers.dev/644.m3u8
-#EXTINF:-1 tvg-id="DAZN1(src01).es" tvg-name="DAZN 1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="All Channels",DAZN 1 Spain
-https://daddy.nayeem-parvez.workers.dev/445.m3u8
-#EXTINF:-1 tvg-id="DAZN2(src01).es" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="All Channels",DAZN 2 Spain
-https://daddy.nayeem-parvez.workers.dev/446.m3u8
-#EXTINF:-1 tvg-id="DAZN3(src01).es" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="All Channels",DAZN 3 Spain
-https://daddy.nayeem-parvez.workers.dev/447.m3u8
-#EXTINF:-1 tvg-id="DAZN4(src01).es" tvg-name="DAZN 4 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="All Channels",DAZN 4 Spain
-https://daddy.nayeem-parvez.workers.dev/448.m3u8
-#EXTINF:-1 tvg-id="DAZNF1(src01).es" tvg-name="DAZN F1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="All Channels",DAZN F1 Spain
-https://daddy.nayeem-parvez.workers.dev/537.m3u8
-#EXTINF:-1 tvg-id="DAZNLALIGA2(src01).es" tvg-name="DAZN LaLiga 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="All Channels",DAZN LaLiga 2 Spain
-https://daddy.nayeem-parvez.workers.dev/43.m3u8
-#EXTINF:-1 tvg-id="DAZNLALIGA(src01).es" tvg-name="DAZN LaLiga Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="All Channels",DAZN LaLiga Spain
-https://daddy.nayeem-parvez.workers.dev/538.m3u8
+
 
 #EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="All Channels",TeenNick
 https://daddy.nayeem-parvez.workers.dev/650.m3u8
@@ -519,11 +431,7 @@ https://daddy.nayeem-parvez.workers.dev/330.m3u8
 https://daddy.nayeem-parvez.workers.dev/329.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="All Channels",Nicktoons
 https://daddy.nayeem-parvez.workers.dev/649.m3u8
-#EXTINF:-1 group-title="All Channels",Noovo
-tvg-name="Noovo"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-tvg-name="Noovo"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/oprah-winfrey-network-us.png" group-title="All Channels",Oprah Winfrey Network (OWN)
-https://daddy.nayeem-parvez.workers.dev/331.m3u8
+
 #EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-name="Oxygen True Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png" group-title="All Channels",Oxygen True Crime
 https://daddy.nayeem-parvez.workers.dev/332.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="All Channels",Paramount Network
@@ -532,17 +440,7 @@ https://daddy.nayeem-parvez.workers.dev/334.m3u8
 https://daddy.nayeem-parvez.workers.dev/653.m3u8
 #EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-name="Racing Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" group-title="All Channels",Racing Tv
 https://daddy.nayeem-parvez.workers.dev/555.m3u8
-#EXTINF:-1 group-title="All Channels",RDS
-tvg-name="RDS"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-tvg-name="RDS"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-#EXTINF:-1 group-title="All Channels",RDS 2
-tvg-name="RDS 2"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-tvg-name="RDS 2"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-#EXTINF:-1 group-title="All Channels",RDS Info
-tvg-name="RDS Info"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-tvg-name="RDS Info"|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="Reelz Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/reelz-us.png" group-title="All Channels",Reelz Channel
-https://daddy.nayeem-parvez.workers.dev/293.m3u8
+
 #EXTINF:-1 tvg-id="RTÉ.One.ie" tvg-name="RTE 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png" group-title="All Channels",RTE 1
 https://daddy.nayeem-parvez.workers.dev/364.m3u8
 #EXTINF:-1 tvg-id="RTÉ2.ie" tvg-name="RTE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png" group-title="All Channels",RTE 2
