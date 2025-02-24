@@ -276,13 +276,13 @@ https://daddycdn.nayeem-parvez.workers.dev/629.m3u8
 #EXTINF:-1 tvg-id="COSMOTE.SPORT.9HD.gr" tvg-name="Cosmote Sport 9 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="All Channels",Cosmote Sport 9 Greece
 https://daddycdn.nayeem-parvez.workers.dev/630.m3u8
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.1.my" tvg-name="Astro SuperSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png" group-title="All Channels",Astro SuperSport 1
+#EXTINF:-1 tvg-id="Astro.SuperSport.1.my" tvg-name="Astro SuperSport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="All Channels",Astro SuperSport 1
 https://daddycdn.nayeem-parvez.workers.dev/123.m3u8
-#EXTINF:-1 tvg-id="Astro.SuperSport.2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png" group-title="All Channels",Astro SuperSport 2
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="All Channels",Astro SuperSport 2
 https://daddycdn.nayeem-parvez.workers.dev/124.m3u8
-#EXTINF:-1 tvg-id="Astro.SuperSport.3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png" group-title="All Channels",Astro SuperSport 3
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQu4dcRyFHntzE8mbBePDrMc8J5NDFXPyBYWn0BphgNx1nhjGoQR63gI1vAZTPWeilt0&usqp=CAU" group-title="All Channels",Astro SuperSport 3
 https://daddycdn.nayeem-parvez.workers.dev/125.m3u8
-#EXTINF:-1 tvg-id="Astro.SuperSport.4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png" group-title="All Channels",Astro SuperSport 4
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rJUwCJfo-MxqrYVqOw1TcPoCdlMh3PEdEw&s" group-title="All Channels",Astro SuperSport 4
 https://daddycdn.nayeem-parvez.workers.dev/126.m3u8
 #EXTINF:-1 tvg-id="ACTION.za" tvg-name="SuperSport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="All Channels",SuperSport Action
 https://daddycdn.nayeem-parvez.workers.dev/420.m3u8
