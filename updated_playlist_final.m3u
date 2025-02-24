@@ -91,6 +91,17 @@ https://daddycdn.nayeem-parvez.workers.dev/426.m3u8
 #EXTINF:-1 tvg-id="DAZN2(src01).de" tvg-name="DAZN 2 Bar DE" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="All Channels",DAZN 2 Bar DE
 https://daddycdn.nayeem-parvez.workers.dev/427.m3u8
 
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-1-pt.png" group-title="All Channels",Eleven Sports 1
+https://daddycdn.nayeem-parvez.workers.dev/455.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-2-pt.png" group-title="All Channels",Eleven Sports 2
+https://daddycdn.nayeem-parvez.workers.dev/456.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-int.png" group-title="All Channels",Eleven Sports
+https://daddycdn.nayeem-parvez.workers.dev/457.m3u8
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-4-pt.png" group-title="All Channels",Eleven Sports 4
+https://daddycdn.nayeem-parvez.workers.dev/458.m3u8
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-5-pt.png" group-title="All Channels",Eleven Sports 5
+https://daddycdn.nayeem-parvez.workers.dev/459.m3u8
+
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="All Channels",TSN1
 https://daddycdn.nayeem-parvez.workers.dev/111.m3u8
@@ -307,16 +318,7 @@ https://daddycdn.nayeem-parvez.workers.dev/421.m3u8
 #EXTINF:-1 tvg-id="TENNIS.za" tvg-name="SuperSport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="All Channels",SuperSport Tennis
 https://daddycdn.nayeem-parvez.workers.dev/423.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-1-pt.png" group-title="All Channels",Eleven Sports 1
-https://daddycdn.nayeem-parvez.workers.dev/455.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-2-pt.png" group-title="All Channels",Eleven Sports 2
-https://daddycdn.nayeem-parvez.workers.dev/456.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-int.png" group-title="All Channels",Eleven Sports
-https://daddycdn.nayeem-parvez.workers.dev/457.m3u8
-#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-4-pt.png" group-title="All Channels",Eleven Sports 4
-https://daddycdn.nayeem-parvez.workers.dev/458.m3u8
-#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-5-pt.png" group-title="All Channels",Eleven Sports 5
-https://daddycdn.nayeem-parvez.workers.dev/459.m3u8
+
 #EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-title="All Channels",Eleven Sports 1 Poland
 https://daddycdn.nayeem-parvez.workers.dev/71.m3u8
 #EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-title="All Channels",Eleven Sports 2 Poland
