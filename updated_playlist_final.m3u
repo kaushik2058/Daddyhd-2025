@@ -72,13 +72,13 @@ https://daddycdn.nayeem-parvez.workers.dev/581.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 BiH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="All Channels",Arena Sport 1 BiH
 https://daddycdn.nayeem-parvez.workers.dev/579.m3u8
 
-#EXTINF:-1 tvg-id="DAZN1(src01).es" tvg-name="DAZN 1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="All Channels",DAZN 1 Spain
+#EXTINF:-1 tvg-id="DAZN1(src01).es" tvg-name="DAZN 1 Spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=15j00hgsf1ioo17d1fl8wc69jb_image-header_pRow_1730196750000&quality=70" group-title="All Channels",DAZN 1 Spain
 https://daddycdn.nayeem-parvez.workers.dev/445.m3u8
-#EXTINF:-1 tvg-id="DAZN2(src01).es" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="All Channels",DAZN 2 Spain
+#EXTINF:-1 tvg-id="DAZN2(src01).es" tvg-name="DAZN 2 Spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="All Channels",DAZN 2 Spain
 https://daddycdn.nayeem-parvez.workers.dev/446.m3u8
-#EXTINF:-1 tvg-id="DAZN3(src01).es" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="All Channels",DAZN 3 Spain
+#EXTINF:-1 tvg-id="DAZN3(src01).es" tvg-name="DAZN 3 Spain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkKpsYUnCtWROaCPdk32mWhTZcKFx-pO4Fw&s" group-title="All Channels",DAZN 3 Spain
 https://daddycdn.nayeem-parvez.workers.dev/447.m3u8
-#EXTINF:-1 tvg-id="DAZN4(src01).es" tvg-name="DAZN 4 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="All Channels",DAZN 4 Spain
+#EXTINF:-1 tvg-id="DAZN4(src01).es" tvg-name="DAZN 4 Spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="All Channels",DAZN 4 Spain
 https://daddycdn.nayeem-parvez.workers.dev/448.m3u8
 #EXTINF:-1 tvg-id="DAZNF1(src01).es" tvg-name="DAZN F1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="All Channels",DAZN F1 Spain
 https://daddycdn.nayeem-parvez.workers.dev/537.m3u8
