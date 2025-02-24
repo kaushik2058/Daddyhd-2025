@@ -91,13 +91,13 @@ https://daddycdn.nayeem-parvez.workers.dev/426.m3u8
 #EXTINF:-1 tvg-id="DAZN2(src01).de" tvg-name="DAZN 2 Bar DE" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="All Channels",DAZN 2 Bar DE
 https://daddycdn.nayeem-parvez.workers.dev/427.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Dazn 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=15j00hgsf1ioo17d1fl8wc69jb_image-header_pRow_1730196750000&quality=70" group-title="All Channels",Eleven Sports 1
+#EXTINF:-1 tvg-id="Dazn 1" tvg-name="Dazn 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=15j00hgsf1ioo17d1fl8wc69jb_image-header_pRow_1730196750000&quality=70" group-title="All Channels",Eleven Sports 1
 https://daddycdn.nayeem-parvez.workers.dev/455.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Dazn 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="All Channels",Eleven Sports 2
+#EXTINF:-1 tvg-id="Dazn 2" tvg-name="Dazn 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="All Channels",Eleven Sports 2
 https://daddycdn.nayeem-parvez.workers.dev/456.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Dazn 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkKpsYUnCtWROaCPdk32mWhTZcKFx-pO4Fw&s" group-title="All Channels",Eleven Sports
+#EXTINF:-1 tvg-id="Dazn 3" tvg-name="Dazn 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkKpsYUnCtWROaCPdk32mWhTZcKFx-pO4Fw&s" group-title="All Channels",Eleven Sports
 https://daddycdn.nayeem-parvez.workers.dev/457.m3u8
-#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Dazn 4" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="All Channels",Eleven Sports 4
+#EXTINF:-1 tvg-id="Dazn 4" tvg-name="Dazn 4" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="All Channels",Eleven Sports 4
 https://daddycdn.nayeem-parvez.workers.dev/458.m3u8
 
 
