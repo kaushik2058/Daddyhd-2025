@@ -82,7 +82,7 @@ https://daddycdn.nayeem-parvez.workers.dev/447.m3u8
 https://daddycdn.nayeem-parvez.workers.dev/448.m3u8
 #EXTINF:-1 tvg-id="DAZNF1(src01).es" tvg-name="DAZN F1 Spain" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg" group-title="All Channels",DAZN F1 Spain
 https://daddycdn.nayeem-parvez.workers.dev/537.m3u8
-#EXTINF:-1 tvg-id="DAZNLALIGA(src01).es" tvg-name="DAZN LaLiga Spain" tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="All Channels",DAZN LaLiga Spain
+#EXTINF:-1 tvg-id="DAZNLALIGA(src01).es" tvg-name="DAZN LaLiga Spain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL21qATPBwG_XsxGPWUwEob-a5Y97no-IJzHZ8VN3_Snmb_uaaxVfAQOYlPCeBobkyWRE&usqp=CAU" group-title="All Channels",DAZN LaLiga Spain
 https://daddycdn.nayeem-parvez.workers.dev/538.m3u8
 #EXTINF:-1 tvg-id="DAZNLALIGA2(src01).es" tvg-name="DAZN LaLiga 2 Spain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdLM821-b-enbvWx4n3691k8JJuA4ct3BsSw&s" group-title="All Channels",DAZN LaLiga 2 Spain
 https://daddycdn.nayeem-parvez.workers.dev/43.m3u8
