@@ -3,9 +3,9 @@
 https://daddycdn.nayeem-parvez.workers.dev/65.m3u8
 #EXTINF:-1 tvg-id="Astro.Cricket.my" #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-name="Astro Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png" group-title="All Channels",Astro Cricket
 https://daddycdn.nayeem-parvez.workers.dev/370.m3u8
-#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-name="Willow Cricket" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="All Channels",Willow Cricket
+#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-name="https://mms.businesswire.com/media/20240209095475/en/2028433/22/WILLOW_2023_Primary_1.jpg" group-title="All Channels",Willow Cricket
 https://daddycdn.nayeem-parvez.workers.dev/346.m3u8
-#EXTINF:-1 tvg-id="WillowXtra.us" tvg-name="Willow XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-xtra-us.png" group-title="All Channels",Willow XTRA
+#EXTINF:-1 tvg-id="WillowXtra.us" tvg-name="Willow XTRA" tvg-logo="https://www.sportzfyhub.com/wp-content/uploads/2024/07/Willow_xtra_logo-removebg-preview.png" group-title="All Channels",Willow XTRA
 https://daddycdn.nayeem-parvez.workers.dev/598.m3u8
 #EXTINF:-1 tvg-id="FoxCricket.alt.au" tvg-name="Fox Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSjlqrspYqxijybUDZCVPbgk4H0Pabgl4k989uYydMAs1xsrv2KNZECjd2X0smF8a1lI&usqp=CAU" group-title="All Channels",Fox Cricket
 https://daddycdn.nayeem-parvez.workers.dev/369.m3u8
@@ -15,17 +15,13 @@ https://daddycdn.nayeem-parvez.workers.dev/368.m3u8
 https://daddycdn.nayeem-parvez.workers.dev/450.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarzPlay CricLife 1 UAE" tvg-logo="https://i.imgur.com/csmQkB0.png" group-title="All Channels",StarzPlay CricLife 1 UAE
 https://daddycdn.nayeem-parvez.workers.dev/284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarzPlay CricLife 2 UAE" tvg-logo="https://i.imgur.com/csmQkB0.png" group-title="All Channels",StarzPlay CricLife 2 UAE
-https://daddycdn.nayeem-parvez.workers.dev/283.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarzPlay CricLife 3 UAE" tvg-logo="https://i.imgur.com/csmQkB0.png" group-title="All Channels",StarzPlay CricLife 3 UAE
-https://daddycdn.nayeem-parvez.workers.dev/282.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="All Channels",TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" group-title="All Channels",TNT Sports 1
 https://daddycdn.nayeem-parvez.workers.dev/31.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="All Channels",TNT Sports 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" group-title="All Channels",TNT Sports 2
 https://daddycdn.nayeem-parvez.workers.dev/32.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="All Channels",TNT Sports 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" group-title="All Channels",TNT Sports 3
 https://daddycdn.nayeem-parvez.workers.dev/33.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="All Channels",TNT Sports 4
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" group-title="All Channels",TNT Sports 4
 https://daddycdn.nayeem-parvez.workers.dev/34.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc1.png" group-title="All Channels",SSC Sport 1
