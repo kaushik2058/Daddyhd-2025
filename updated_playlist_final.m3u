@@ -3,7 +3,7 @@
 https://daddycdn.nayeem-parvez.workers.dev/65.m3u8
 #EXTINF:-1 tvg-id="Astro.Cricket.my" #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-name="Astro Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png" group-title="All Channels",Astro Cricket
 https://daddycdn.nayeem-parvez.workers.dev/370.m3u8
-#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-name="https://mms.businesswire.com/media/20240209095475/en/2028433/22/WILLOW_2023_Primary_1.jpg" group-title="All Channels",Willow Cricket
+#EXTINF:-1 tvg-id="Willowcricket.us" tvg-name="Willow Cricket" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/willow_sportscolour.png" group-title="All Channels",Willow Cricket
 https://daddycdn.nayeem-parvez.workers.dev/346.m3u8
 #EXTINF:-1 tvg-id="WillowXtra.us" tvg-name="Willow XTRA" tvg-logo="https://www.sportzfyhub.com/wp-content/uploads/2024/07/Willow_xtra_logo-removebg-preview.png" group-title="All Channels",Willow XTRA
 https://daddycdn.nayeem-parvez.workers.dev/598.m3u8
